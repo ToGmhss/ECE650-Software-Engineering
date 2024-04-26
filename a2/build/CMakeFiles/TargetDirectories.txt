@@ -1,4 +1,0 @@
-/Users/gumuhan/Documents/Waterloo/ECE650/code/m7gu/a2/build/CMakeFiles/ece650-a2.dir
-/Users/gumuhan/Documents/Waterloo/ECE650/code/m7gu/a2/build/CMakeFiles/tests.dir
-/Users/gumuhan/Documents/Waterloo/ECE650/code/m7gu/a2/build/CMakeFiles/edit_cache.dir
-/Users/gumuhan/Documents/Waterloo/ECE650/code/m7gu/a2/build/CMakeFiles/rebuild_cache.dir
